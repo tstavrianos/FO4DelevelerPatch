@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    </PropertyGroup>
+
+
+    <ItemGroup>
+        <PackageReference Include="Mutagen.Bethesda.Fallout4" Version="0.40.0-pr007" />
+        <PackageReference Include="Mutagen.Bethesda.Synthesis" Version="0.25.0-pr002" />
+    </ItemGroup>
+
+</Project>
