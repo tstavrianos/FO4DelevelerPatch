@@ -1,8 +1,8 @@
 {
-  "Nickname": "FO4DelevelerPatch",
+  "Nickname": "Npc Auto Scaling",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Npc Auto Scaling",
+  "LongDescription": "Set all NPC and Encounter Zones to be scaled to the player level.",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": [],
   "TargetedReleases": [
